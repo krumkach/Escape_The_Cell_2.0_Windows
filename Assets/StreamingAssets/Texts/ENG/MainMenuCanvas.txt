@@ -1,0 +1,5 @@
+Start
+Press ESC to exit
+Escape the cell
+Death count: 
+Total time (in seconds): 

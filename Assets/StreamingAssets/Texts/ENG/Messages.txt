@@ -1,0 +1,4 @@
+Press ? to open tutorial
+Too much pressure on pins! Start over
+ was successfully used
+The lock was successfully picked
