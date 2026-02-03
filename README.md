@@ -26,7 +26,7 @@ C#
 
 Usage:
 
-Download and run the setup file to install the game on your device. Feel free to explore, modify, or expand upon it!
+Download and run the setup file to install the game on your device.
 
 
 Contribution & Links:
