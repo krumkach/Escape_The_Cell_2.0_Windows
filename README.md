@@ -1,5 +1,7 @@
 Simple Atmosphere Puzzle Game
+
 Description:
+
 A minimalistic and atmospheric puzzle game developed as a test project during my Unity education. This Windows desktop application offers a relaxing and engaging experience, designed with simplicity and ambiance in mind. The game is easy to set up and ready for future updates, featuring potential for new content and features.
 
 Features:
